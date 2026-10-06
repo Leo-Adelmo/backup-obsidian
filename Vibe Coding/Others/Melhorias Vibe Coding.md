@@ -1,0 +1,1 @@
+- Criar arquivo de Skills para fazer a checagem de pendencias e chamar no momento de um MR 

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b9059b3ac557245b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Teste"},
+		{"id":"f89bb5c1f8c7f197","x":-131,"y":171,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"0c4e6e0e1a06bb00","fromNode":"b9059b3ac557245b","fromSide":"bottom","toNode":"f89bb5c1f8c7f197","toSide":"top"}
+	]
+}

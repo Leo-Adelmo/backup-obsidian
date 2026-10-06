@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "0726b2c6267ac9a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d58b038f56d111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c6b012269224c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/Standarts.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Standarts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb45ae33c092bd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "0160397d81b89e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40df58013a6e043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abb622d292d47730",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Star Schema",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c74485a2929ac34e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "0b104d75b8c14c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9dd10c20da8b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd64a60a3c4bb83b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medalhão DataBricks/Arquitetura Medalhão Databricks (Gerado por IA).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Arquitetura Medalhão Databricks (Gerado por IA)"
+            }
+          },
+          {
+            "id": "f2dc5da53cc66f25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medalhão DataBricks/Arquitetura Medalhão Databricks (Gerado por IA).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Arquitetura Medalhão Databricks (Gerado por IA)"
+            }
+          },
+          {
+            "id": "678d80865f2833b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b37f6a95d2d0e8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.2 - Criação de um Repositório no GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2.2 - Criação de um Repositório no GitHub"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c0c6b012269224c8",
+  "lastOpenFiles": [
+    "Harness Engineering/Untitled.md",
+    "tasks/Standarts.md",
+    "tasks",
+    "Harness Engineering/harness-engineering-revisado.md",
+    "Harness Engineering/plan.md",
+    "Pasted image 20260723203503.png",
+    "Pasted image 20260723203537.png",
+    "Pasted image 20260723203508.png",
+    "Pasted image 20260723203417.png",
+    "Pasted image 20260723203435.png",
+    "Pasted image 20260723203428.png",
+    "Harness Engineering/Não confirmado 536257.crdownload",
+    "Projetos/Data Vet/1 - Descritivos/Descritivo - Coleta de Dados de Estabelecimentos Veterinários (São Paulo) Reduzido.md",
+    "Harness Engineering",
+    "Projetos/Data Vet/1 - Descritivos/Descritivo - Coleta de Dados de Estabelecimentos Veterinários (São Paulo).md",
+    "Vibe Coding/Documentacao Detalhada - Data Platform Lite.md",
+    "Untitled.md",
+    "Vibe Coding/Concpts/List of Context.md",
+    "Vibe Coding/Concpts/Context Window.md",
+    "Vibe Coding/Others/AGENTS.md.md",
+    "SKILLS.md.md",
+    "Vibe Coding/Others",
+    "Vibe Coding/Concpts",
+    "Vibe Coding/Others/SKILL_00.md.md",
+    "Vibe Coding/Others/Lists of SKILLS.md",
+    "Vibe Coding/Others/SKILL.md",
+    "Vibe Coding/Others/SKILLS VALIDATOR.md",
+    "SKILL.md",
+    "Vibe Coding/Others/Melhorias Vibe Coding.md",
+    "Vibe Coding",
+    "C4/Componentes/Data Ingestion.md",
+    "C4/Componentes/Data Processing.md",
+    "C4/Componentes/Data Lake.md",
+    "C4/Componentes/Data Catalog.md",
+    "C4/Componentes/Pipeline Oschestrator.md",
+    "C4/Containers.md",
+    "C4/Contexto.md",
+    "Excalidraw/Drawing 2026-06-04 21.30.33.excalidraw.md",
+    "C4/Componentes",
+    "C4",
+    "Resumos Entrevista Analise de Dados/4 - Data Analytics",
+    "Resumos Entrevista Analise de Dados/3 - Governança de Dados",
+    "Anotações Gerais/Pasted image 20260129210538.png",
+    "Outros/Pasted image 20260501205354.png",
+    "Outros/Pasted image 20260501205759.png",
+    "Projetos/Data Vet/0 - Imagens/Pasted image 20260319194805.png",
+    "Mentoria 2026/git/Sem título.canvas"
+  ]
+}
